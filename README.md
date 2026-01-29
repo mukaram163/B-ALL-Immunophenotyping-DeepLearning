@@ -28,7 +28,7 @@ To address clinical variability in Giemsa/Wright staining protocols, we implemen
 ## 🧫 Data Source & Biological Context
 Based on the **Taleqani Hospital Dataset**, the project models the biological continuum of B-cell ontogeny from Pro-B to mature stages.
 
-
+📄 **Project Summary (PDF)**: *B-ALL_DeepLearning_Summary.pdf*  https://github.com/mukaram163/B-ALL-Immunophenotyping-DeepLearning/blob/main/B-ALL_DeepLearning_Summary.pdf
 
 ---
 *Developed for the Amgen Scholars / NUS Research Application portfolio.*
